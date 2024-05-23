@@ -1,4 +1,4 @@
-1. Make a new file in [editor.](https://editor.p5js.org/)https://editor.p5js.org/
+1. Make a new file in [p5js editor](https://editor.p5js.org/)
 2. Name it  10.1.1-Intro-to-coding-ST
 3. Paste in the starter code below. 
 
