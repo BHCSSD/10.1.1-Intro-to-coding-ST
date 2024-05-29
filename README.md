@@ -27,7 +27,7 @@ function draw() {
 //Everything is _______ sensitive. 
 // _______ is not the same as _________
 // with two words the first word is ______ and the second word is ______  jamesBond
-
+// This is called _________
 
 
 //There are 3 main areas for our basic codes
@@ -36,14 +36,12 @@ function draw() {
 //3. 
 
 
-
-  // We can use _______ to help debug
-  // it is supper dupper hidden... click on the _______
+// We can use _______ to help debug
 
 
-  // for now we will use 2 data types
-  // _______
-  // _______
+// for now we will use 2 data types
+// _______
+// _______
 
 
   
