@@ -5,7 +5,7 @@
 
 
 The starter code is here:
-```
+```javaScript
 function setup() {
   createCanvas(5,5);
   
